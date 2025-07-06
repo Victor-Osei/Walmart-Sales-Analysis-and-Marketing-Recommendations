@@ -1,0 +1,2 @@
+# Walmart-Sales-Analysis-and-Marketing-Recommendations
+This project analyzes Walmart’s weekly sales data using the CRISP-DM framework to uncover factors influencing sales performance and to recommend actionable strategies for boosting revenue. The dataset includes store-level weekly sales along with economic indicators such as temperature, fuel price, CPI, and unemployment, as well as holiday flags.
