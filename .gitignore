@@ -1,0 +1,20 @@
+# Python virtual environments
+walmart-virt/
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# VSCode settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db 
