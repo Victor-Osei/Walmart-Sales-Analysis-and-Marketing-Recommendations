@@ -138,4 +138,3 @@ Clean visualizations (line plots, boxplots, heatmaps)
 
 Summary tables
 
-Actionable recommendations aligned with your provided PDF strategy document
