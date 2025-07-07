@@ -28,8 +28,8 @@ This project analyzes Walmart sales data to uncover trends, generate insights, a
    ```
 
 ## Usage
-- Open your browser to the Jupyter Notebook interface.
-- Create or open notebooks to begin your analysis.
+- Use VS Code or Cursor or Open your browser to the Jupyter Notebook interface.
+- Create or open notebook to begin your analysis.
 
 ## Project Goals
 - Analyze sales trends and seasonality
@@ -38,17 +38,17 @@ This project analyzes Walmart sales data to uncover trends, generate insights, a
 
 ---
 ## 1️⃣ Business Understanding
-Goal: Analyze Walmart’s weekly sales to identify factors influencing sales and recommend strategies to increase sales.
+**Goal** : Analyze Walmart’s weekly sales to identify factors influencing sales and recommend strategies to increase sales.
 
-Objectives:
+**Objectives:**
 
-Evaluate the impact of holidays, temperature, fuel price, CPI, and unemployment on sales.
+   Evaluate the impact of holidays, temperature, fuel price, CPI, and unemployment on sales.
 
-Compare store-specific performance to identify high and low performers.
+   Compare store-specific performance to identify high and low performers.
 
-Identify seasonality and trends in sales.
+   Identify seasonality and trends in sales.
 
-Provide actionable marketing and operational recommendations.
+   Provide actionable marketing and operational recommendations.
 
 ## 2️⃣ Data Understanding
 Your dataset (Walmart_sales_analysis.csv) contains:
@@ -131,6 +131,7 @@ Insights will be evaluated for business relevance:
 
 
 ## 6️⃣ Deployment
+
 Present insights and recommendations in:
 
 Clean visualizations (line plots, boxplots, heatmaps)
