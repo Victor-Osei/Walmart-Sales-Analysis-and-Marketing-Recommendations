@@ -88,15 +88,18 @@ Normalize/scale variables if needed for modeling.
 
 ## 4️⃣ Modeling
 We will not build predictive ML models for now, but:
+
 ✅ Perform hypothesis testing
+
 ✅ Use statistical tests to check relationships and significance
 
-* Hypothesis Testing
-Holiday Impact:
+**Hypothesis Testing**
 
-Null (H0): Holidays do not significantly impact weekly sales.
+- Holiday Impact:
 
-Alternate (H1): Holidays significantly increase weekly sales.
+   Null (H0): Holidays do not significantly impact weekly sales.
+
+   Alternate (H1): Holidays significantly increase weekly sales.
 
 Using two-sample t-test between holiday and non-holiday weeks.
 
