@@ -19,5 +19,7 @@ __pycache__/
 # Windows
 Thumbs.db 
 
-Walmart_sales_analysis.csv
-Walmart Sales Analysis And Marketing Recommendations.pdf
+/data/Walmart_sales_analysis.csv
+/data/Walmart Sales Analysis And Marketing Recommendations.pdf
+
+/save_upon_shutdown.ipynb
